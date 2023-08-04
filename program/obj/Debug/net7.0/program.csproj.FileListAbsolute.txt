@@ -1,0 +1,5 @@
+/Users/yolondy/Desktop/Geek/test work/program/obj/Debug/net7.0/program.csproj.AssemblyReference.cache
+/Users/yolondy/Desktop/Geek/test work/program/obj/Debug/net7.0/program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yolondy/Desktop/Geek/test work/program/obj/Debug/net7.0/program.AssemblyInfoInputs.cache
+/Users/yolondy/Desktop/Geek/test work/program/obj/Debug/net7.0/program.AssemblyInfo.cs
+/Users/yolondy/Desktop/Geek/test work/program/obj/Debug/net7.0/program.csproj.CoreCompileInputs.cache
